@@ -258,8 +258,8 @@ button.next-passenger_btn.btn.text-center {
 }
 
 .passengers-info_section_control {
-  margin-top: 0px;
-  position: relative;
+  margin-top: 0;
+  position: inherit;
 }
 .passengers-info_section_control > .next-block_btn {
   margin-bottom: 140px !important;
